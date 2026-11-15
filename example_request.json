@@ -1,0 +1,9 @@
+{
+  "seller_id": 1,
+  "is_verified_seller": false,
+  "item_id": 100,
+  "name": "Стол",
+  "description": "Письменный стол в хорошем состоянии",
+  "category": 10,
+  "images_qty": 0
+}
